@@ -9,3 +9,7 @@ This is following the turtorial
 ``` pyhton
 println("Hello World!)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
